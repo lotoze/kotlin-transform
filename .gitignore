@@ -50,7 +50,7 @@ build/
 .idea/uiDesigner.xml
 node_modules/
 .rpt2_cache/
-local.properties
+
 buildSrcTmp/
 distTmp/
 outTmp/
